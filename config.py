@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 # Токен бота
-BOT_TOKEN = "7790883343:AAEm_M_Y_ILk9qMlMSBiFpssdZSS2z4ABmU"
+BOT_TOKEN = ""
 
 # Admin IDs
 ADMIN_IDS = [804644988]  # Replace with your actual admin IDs
